@@ -28,7 +28,7 @@ Step7.
 test: add two unexpected pictures(faces) to the plot
 
 ### files
-face_recognition.ipynb: the jupyter notebook containing code  
+Face Recognition Demo.ipynb: the jupyter notebook containing code  
 newplot.png: result plot
 
 
